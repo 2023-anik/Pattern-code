@@ -13,3 +13,9 @@ int main(){
         cout<<endl;
     }return 0;
 }
+// output:
+// 4
+// 4 3 2 1
+// 4 3 2 1
+// 4 3 2 1
+// 4 3 2 1
